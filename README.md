@@ -2,7 +2,7 @@
 
 <div align="center">
 
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
 
 **Name** : Yoon
 **Univ.** : Sookmyung Women's University, School of Computer Science (''24)
@@ -14,7 +14,8 @@
 
 
 
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
+
 ----------
 Languages
 
