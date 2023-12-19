@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&customColorList=&height=300&section=header&text=🐬&fontSize=90)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&center=true&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
+<div align="center"></div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
 - **Name** : Yoon
 - **Univ.** : Sookmyung Women's University, School of Computer Science (''24)
 - **email** : yoonbusinesscontact@gmail.com
@@ -13,7 +14,7 @@
 
 
 
-### 💻 **Skills**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
 ----------
 - Languages
 
@@ -32,7 +33,7 @@
 - Office
 
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
-
+<div align="center"></div>
 <!--
 **Y00NSJ/Y00NSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
