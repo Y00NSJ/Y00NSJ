@@ -1,16 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&customColorList=&height=300&section=header&text=🐬&fontSize=90)
 
-### Who Am I
-- Name : Yoon
-- Univ. : Sookmyung Women's University, School of Computer Science (''24)
-- email : yoonbusinesscontact@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&center=true&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
+- **Name** : Yoon
+- **Univ.** : Sookmyung Women's University, School of Computer Science (''24)
+- **email** : yoonbusinesscontact@gmail.com
+- **Links**
+
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yoon0509})](https://solved.ac/{yoon0509})
 
 
 
-### 💻Skills
+### 💻 **Skills**
 ----------
 - Languages
 
@@ -18,7 +21,9 @@
 
 - Tools
 
-
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white) 
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=plastic&logo=obsidian&logoColor=white)
 
 - Design
 
