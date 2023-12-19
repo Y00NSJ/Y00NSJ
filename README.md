@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&customColorList=&height=300&section=header&text=🐬&fontSize=90)
 
-<div align="center"></div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
 - **Name** : Yoon
 - **Univ.** : Sookmyung Women's University, School of Computer Science (''24)
