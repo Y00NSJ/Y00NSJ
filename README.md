@@ -1,25 +1,44 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&customColorList=&height=300&section=header&text=🐬&fontSize=90)
+</div>
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F)](https://git.io/typing-svg)
+<h2 align="center">
+  
+  <a href="https://git.io/typing-svg">
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F">
+  </a>
+</h2>
 
-**Name** : Yoon
+<br>
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj={yoon0509}"> 
 
-**Univ.** : Sookmyung Women's University, School of Computer Science (''24)
+<div align="center">
+
+**Name** : Yoon 
+
+**Univ.** : Sookmyung Women's University, Department of Computer Science(''24)
 
 **email** : yoonbusinesscontact@gmail.com
 
-**Links** ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+**Links** ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![velog](https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={yoon0509})](https://solved.ac/{yoon0509})
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
+<h2 align="center">
+  
+  <a href="https://git.io/typing-svg">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%92%BB+Skills">
+  </a>
+</h2>
+<br>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%92%BB+Skills)](https://git.io/typing-svg)
-
-----------
 **Languages**
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plasti&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
