@@ -12,7 +12,7 @@
 </h2>
 
 <br>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj={yoon0509}"> 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon0509"> 
 
 <div align="center">
 
