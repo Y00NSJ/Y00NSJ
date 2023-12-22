@@ -4,12 +4,16 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
+      - name: Check out this repo
+        uses: actions/checkout@v2
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
@@ -17,7 +21,6 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git remote set-url origin https://Y00NSJ@github.com/Y00NSJ/YOONSJ.git
           git config user.name Y00NSJ 
           git config user.email pg0509@naver.com 
           git add -A .
