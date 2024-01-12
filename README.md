@@ -18,7 +18,7 @@
 
 **Name** : Yoon 
 
-**Univ.** : Sookmyung Women's University, Department of Computer Science(''24)
+**Univ.** : Sookmyung Women's University, Department of Computer Science(''25)
 
 **email** : yoonbusinesscontact@gmail.com
 
