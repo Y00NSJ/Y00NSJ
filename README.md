@@ -22,7 +22,7 @@
 
 **email** : yoonbusinesscontact@gmail.com
 
-**Links** [![Notion][badge-notion][like-notion]] [![velog][badge-velog]][like-velog]
+**Links** : [![Notion][badge-notion]][like-notion] [![velog][badge-velog]][like-velog]
 
 <br>
 <br>
