@@ -22,7 +22,7 @@
 
 **email** : yoonbusinesscontact@gmail.com
 
-**Links** : [![Notion][badge-notion]][like-notion] [![velog][badge-velog]][like-velog]
+**Links** : <a href="https://y00n.oopy.io"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
 
 <br>
 <br>
@@ -61,12 +61,11 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- badges -->
-[badge-velog] : https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white
-[badge-notion] : https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white
+
 
 <!-- links -->
-[like-velog] : https://velog.io/@y00nsj
-[like-notion] : https://y00n.oopy.io
+
+
 
 <!--
 **Y00NSJ/Y00NSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
