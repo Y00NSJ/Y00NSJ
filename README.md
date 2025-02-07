@@ -18,7 +18,9 @@
 
 **Name** : Yoon 
 
-**Univ.** : Sookmyung Women's University, Department of Computer Science(''25)
+**Univ.** : Sookmyung Women's University, Department of Computer Science('25)
+
+>Originally studied *English Language and Literature* since 2019 before transferring to CS in 2024.
 
 **email** : yoonbusinesscontact@gmail.com
 
