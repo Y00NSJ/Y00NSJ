@@ -13,22 +13,15 @@
 
 <br>
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoon0509"> 
-
 <div align="center">
 
 **Name** : Yoon 
 
 **Univ.** : Sookmyung Women's University, Department of Computer Science('25)
-
 >Originally studied *English Language and Literature* since 2019 before transferring to CS in 2024.
-
-**email** : yoonbusinesscontact@gmail.com
 
 **Links** : <a href="https://www.notion.so/yoon0509"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -78,6 +71,11 @@
 
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=plastic&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=plastic&logo=microsoft-word&logoColor=white)
 </div>
+
+<br>
+<br>
+<br>
+<h2></h2>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
