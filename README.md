@@ -32,7 +32,7 @@
 |----|----|----|----|
 |[Let's IT](https://github.com/LetsIT-BE "레포지토리 바로가기")|미취업 개발자를 위한 웹 플랫폼|`5 months`|BE 개발, 기획, PM|
 |[이음](https://github.com/Y00NSJ/AIF24-2 "레포지토리 바로가기")|GPT를 통한 신조어/한자어/전문용어 문장 번역 크롬 확장 프로그램|`1 month`|Full Stack 개발, 기획|
-|[KubeLabX](https://github.com/KubeLabX "레포지토리 바로가기")|리눅스 서버 실습 환경 제공 목적의 노드 및 웹 터미널 제공 플랫폼|`2 months`|BE 개발, 기획|
+|[KubeLabX](https://github.com/KubeLabX "레포지토리 바로가기")|리눅스 서버 실습 환경 제공 목적의 k8s 기반 노드 및 웹 터미널 제공 플랫폼|`2 months`|BE 개발, 기획|
 |[in/space](https://github.com/2024-2-SOLUX-in-space "레포지토리 바로가기")|공감각적 레퍼런스 스크래핑 플랫폼|`1 month`|BE 개발|
 |[KAILink](https://github.com/jmnew03/KAILink "레포지토리 바로가기")|몰입캠프_카이스트 신입생을 위한 교내 건물 정보 App|`1 week`|Android FE 개발|
 |[Mandy](https://github.com/Y00NSJ/Mandy_FE_expo "레포지토리 바로가기")|몰입캠프_만다라트 계획표 작성 App|`1 week`|Hybrid App 개발, 기획|
