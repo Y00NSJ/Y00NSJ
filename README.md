@@ -30,15 +30,15 @@
 
 |projects|explanation|date|role|
 |----|----|----|----|
-|[Let's IT](https://github.com/LetsIT-BE "레포지토리 바로가기")|미취업 개발자를 위한 웹 플랫폼|`5 months`|BE 개발, 기획, PM|
-|[이음](https://github.com/Y00NSJ/AIF24-2 "레포지토리 바로가기")|GPT를 통한 신조어/한자어/전문용어 문장 번역 크롬 확장 프로그램|`1 month`|Full Stack 개발, 기획|
-|[KubeLabX](https://github.com/KubeLabX "레포지토리 바로가기")|리눅스 서버 실습 환경 제공 목적의 k8s 기반 노드 및 웹 터미널 제공 플랫폼|`2 months`|BE 개발, 기획|
-|[in/space](https://github.com/2024-2-SOLUX-in-space "레포지토리 바로가기")|공감각적 레퍼런스 스크래핑 플랫폼|`1 month`|BE 개발|
-|[KAILink](https://github.com/jmnew03/KAILink "레포지토리 바로가기")|몰입캠프_카이스트 신입생을 위한 교내 건물 정보 App|`1 week`|Android FE 개발|
-|[Mandy](https://github.com/Y00NSJ/Mandy_FE_expo "레포지토리 바로가기")|몰입캠프_만다라트 계획표 작성 App|`1 week`|Hybrid App 개발, 기획|
-|꿍꼬또 ([F](https://github.com/Y00NSJ/kkd-FE "레포지토리 바로가기")/[B](https://github.com/Y00NSJ/kkd-BE "레포지토리 바로가기"))|몰입캠프_영상 제작 AI를 통한 꿈 기록 영상화 웹서비스|`1 week`|Full Stack 개발, 공동 기획|
-|[MadCamp Slack](https://github.com/KangGunn/Madcamp_Week4 "레포지토리 바로가기")|몰입캠프_전용 슬랙봇이 포함된 슬랙 워크스페이스|`1 week`|Slack Bot 개발, 공동 기획|
-|[눈송이 메이커](https://github.com/SnowFlakeMaker "레포지토리 바로가기")|숙명여대 신입생을 위한 '프린세스 메이커' 스타일 학교 소개 게임|`3 months`|BE 개발, 기획|
+|[Let's IT](https://github.com/LetsIT-BE "레포지토리 바로가기")|미취업 개발자를 위한 프로젝트 팀원 매칭 및 AI 포트폴리오 생성 플랫폼|`5 months`|BE 개발, 기획, PM|
+|[이음](https://github.com/Y00NSJ/AIF24-2 "레포지토리 바로가기")|GPT 기반 신조어/한자어/전문용어 문장 번역 크롬 확장 프로그램|`1 month`|Full Stack 개발, 기획|
+|[KubeLabX](https://github.com/KubeLabX "레포지토리 바로가기")|웹 원격 터미널을 통한 리눅스 서버 실습 환경 제공 목적의 k8s 기반 노드 및 웹 터미널 제공 플랫폼|`2 months`|BE 개발, 서버 인프라 관리, 기획|
+|[in/space](https://github.com/2024-2-SOLUX-in-space "레포지토리 바로가기")|공감각적 레퍼런스 2차원 스크래핑 플랫폼|`1 month`|BE 개발|
+|[KAILink](https://github.com/jmnew03/KAILink "레포지토리 바로가기")|몰입캠프_카이스트 신입생을 위한 교내 건물 정보 및 AI 챗봇 App|`1 week`|Android FE 개발|
+|[Mandy](https://github.com/Y00NSJ/Mandy_FE_expo "레포지토리 바로가기")|몰입캠프_GPT 활용 만다라트 계획표 작성 App|`1 week`|Hybrid App 개발, 기획|
+|꿍꼬또 ([F](https://github.com/Y00NSJ/kkd-FE "레포지토리 바로가기")/[B](https://github.com/Y00NSJ/kkd-BE "레포지토리 바로가기"))|몰입캠프_영상 생성 AI를 통한 꿈 기록 영상화 웹서비스|`1 week`|Full Stack 개발, 공동 기획|
+|[MadCamp Slack](https://github.com/KangGunn/Madcamp_Week4 "레포지토리 바로가기")|몰입캠프_캠프슬랙 워크스페이스를 위한 슬랙봇 모음|`1 week`|Slack Bot 개발, 공동 기획|
+|[눈송이 메이커](https://github.com/SnowFlakeMaker "레포지토리 바로가기")|숙명여대 신입생 대상 게이미피케이션을 통한 학교 생활 체험 및 적응 서비스 |`3 months`|BE 개발, 서버 인프라 관리, 기획|
 
 
 <br>
