@@ -17,10 +17,10 @@
 
 **Name** : Yoon SeoJin
 
-**Univ.** : Sookmyung Women's University, Department of Computer Science('25)
+**Education** : Sookmyung Women's University, Department of Computer Science('25)
 >Originally studied *English Language and Literature* since 2019 before transferring to CS in 2024.
 
-**Links** : <a href="https://www.notion.so/yoon0509"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
+**Outlinks** : <a href="https://www.notion.so/yoon0509"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
 
 
 <br>
