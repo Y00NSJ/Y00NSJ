@@ -43,11 +43,12 @@
 
 
 <br><br>
-|studies|period|
-|----|----|
-|[자바](https://github.com/Y00NSJ/2023-2.Java)|24.01 ~ 24.02|
-|OS 공룡책 (3인)|24.07 ~ 24.08|
-|[컴퓨터 비전과 딥러닝](https://github.com/Y00NSJ/CV-DL) (3인)|25.03 ~ |
+|studies|period|type|
+|----|----|----|
+|[자바](https://github.com/Y00NSJ/2023-2.Java)|24.01 ~ 24.02|개인|
+|OS 공룡책 완독|24.07 ~ 24.08|그룹|
+|[컴퓨터 비전과 딥러닝 완독](https://github.com/Y00NSJ/CV-DL)|25.03 ~ |그룹|
+|김병규 교수님 Neural Network 이론 세미나|25.04 ~ |그룹|
 
 <br><br><br>
 
