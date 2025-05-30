@@ -34,7 +34,7 @@
 |[Let's IT](https://github.com/LetsIT-BE)|미취업 개발자를 위한 프로젝트 팀원 매칭 및 AI 포트폴리오 생성 플랫폼|`5 months`|BE 개발, AI 엔지니어링, 기획, PM|
 |[이음](https://github.com/Y00NSJ/AIF24-2)|GPT 기반 신조어/한자어/전문용어 문장 번역 크롬 확장 프로그램|`1 month`|Full Stack 개발, AI 엔지니어링, 기획|
 |[KubeLabX](https://github.com/KubeLabX)|웹 원격 터미널을 통한 리눅스 서버 실습 환경 제공 목적의 k8s 기반 노드 및 웹 터미널 제공 플랫폼|`2 months`|BE 개발, 서버 인프라 관리, 기획|
-|[in/space](https://github.com/2024-2-SOLUX-in-space/inspace-backend)|공감각적 레퍼런스 2차원 스크래핑 플랫폼|`1 month`|BE 개발|
+|[in/space](https://github.com/2024-2-SOLUX-in-space/inspace-backend)|공감각적 레퍼런스 2차원 스크래핑 플랫폼|`1 month`|BE 개발, 서버 인프라 관리|
 |[KAILink](https://github.com/jmnew03/KAILink)|몰입캠프_카이스트 신입생을 위한 교내 건물 정보 및 AI 챗봇 App|`1 week`|Android FE 개발, AI 엔지니어링|
 |[Mandy](https://github.com/Y00NSJ/Mandy_FE_expo)|몰입캠프_GPT 활용 만다라트 계획표 작성 App|`1 week`|Hybrid App 개발, AI 엔지니어링, 기획|
 |꿍꼬또 ([F](https://github.com/Y00NSJ/kkd-FE "레포지토리 바로가기")/[B](https://github.com/Y00NSJ/kkd-BE))|몰입캠프_영상 생성 AI를 통한 꿈 기록 영상화 웹서비스|`1 week`|Full Stack 개발, AI 엔지니어링, 공동 기획|
