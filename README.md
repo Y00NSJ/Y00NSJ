@@ -47,10 +47,12 @@
 |----|----|----|
 |[자바 교재 실습문제 풀이](https://github.com/Y00NSJ/2023-2.Java)|24.01 ~ 24.02|개인|
 |OS 공룡책 완독|24.07 ~ 24.08|그룹|
-|[컴퓨터 비전과 딥러닝 완독](https://github.com/Y00NSJ/CV-DL)|25.03 ~ |그룹|
-|[수학으로 풀어보는 강화학습 원리와 알고리즘 완독](https://github.com/Y00NSJ/RL)|25.04 ~ 25.05|그룹|
-|[혼자 공부하는 머신러닝+딥러닝 완독](https://github.com/Y00NSJ/MLDL_intro)|25.05 ~ 25.06|개인|
+|Seven Languages in Seven Weeks 완독 |[PENDING] | 개인|
+|[『컴퓨터 비전과 딥러닝』 완독](https://github.com/Y00NSJ/CV-DL)| [PENDING] |그룹|
+|[『수학으로 풀어보는 강화학습 원리와 알고리즘』 완독](https://github.com/Y00NSJ/RL)|25.04 ~ 25.05|그룹|
+|[『혼자 공부하는 머신러닝+딥러닝』 완독](https://github.com/Y00NSJ/MLDL_intro)|25.05 ~ 25.06|개인|
 |Algebra, Calculus, Linear Algebra|25.04 ~ | 개인|
+|『이공계생을 위한 확률과 통계』 복습|25.05 ~ | 개인|
 
 <br><br><br>
 
