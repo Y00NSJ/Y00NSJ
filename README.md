@@ -7,7 +7,7 @@
 <h2 align="center">
   
   <a href="https://git.io/typing-svg">
-    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Who+am+I%3F">
+    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=8DCCF7&random=false&width=435&lines=%F0%9F%90%AC+Bio">
   </a>
 </h2>
 
@@ -20,7 +20,7 @@
 **Education** : Sookmyung Women's University, Department of Computer Science('25)
 >Originally studied *English Language and Literature* since 2019 before transferring to CS in 2024.
 
-**Outlinks** : <a href="https://www.notion.so/yoon0509"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
+**Outlinks** : <a href=""><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a>
 <br>
 <br>
 <br>
