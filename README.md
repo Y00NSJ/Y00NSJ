@@ -46,6 +46,7 @@
 |studies|period|type|
 |----|----|----|
 |[자바 교재 실습문제 풀이](https://github.com/Y00NSJ/2023-2.Java)|24.01 ~ 24.02|개인|
+|['스프링 입문 - 코드로 배우는 스프링부트, 웹 MVC, DB 접근 기술' 완강](https://github.com/Y00NSJ/spring_intro.inflearn)|24.07|개인|
 |OS 공룡책 완독|24.07 ~ 24.08|그룹|
 |Seven Languages in Seven Weeks 완독 |[PENDING] | 개인|
 |[『컴퓨터 비전과 딥러닝』 완독](https://github.com/Y00NSJ/CV-DL)| [PENDING] |그룹|
