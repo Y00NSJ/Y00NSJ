@@ -20,7 +20,7 @@
 **Education** : Sookmyung Women's University, Department of Computer Science('25)
 >Originally studied *English Language and Literature* since 2019 before transferring to CS in 2024.
 
-**Outlinks** : <a href="https://drive.google.com/file/d/1Fss8uioOOyMPk2F0BuVFAXxgxLZWeMiU/preview" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=plastic&logo=latex&logoColor=white&color=D82C20"></a> <a href=""><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a> 
+**Outlinks** : <a href="https://drive.google.com/file/d/1xfzpBGMdS4ZOq9v2utMBuVqs6R2vFe-Z/preview" target="_blank"><img src="https://img.shields.io/badge/CV-white?style=plastic&logo=latex&logoColor=white&color=D82C20"></a> <a href=""><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white"/></a> <a href="https://velog.io/@y00nsj"><img src="https://img.shields.io/badge/velog-20C997.svg?style=plastic&logo=velog&logoColor=white"/></a> 
 <br>
 <br>
 <br>
