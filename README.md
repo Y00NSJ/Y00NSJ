@@ -103,7 +103,7 @@
 <br>
 <h2></h2>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <!-- badges -->
 
